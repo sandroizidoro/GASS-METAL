@@ -35,7 +35,6 @@ Example of a substitution:
 
 1peg, Zn, 4, CYS, HIS
 
-1     2   3   4   5
 
 Where:
 
