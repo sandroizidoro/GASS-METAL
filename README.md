@@ -9,6 +9,7 @@ File Templates.zip (Templates used by GASS-Metal)
 Example of a template:
 
 3nos 1.14.13.39 Zn CYS 99 B CYS 99 A CYS 94 A CYS 94 B
+
 1    2          3  4   5  6
 
 Where:
