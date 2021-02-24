@@ -11,22 +11,19 @@ Example of a template:
 
 3nos 1.14.13.39 Zn CYS 99 B CYS 99 A CYS 94 A CYS 94 B
 
-1    2          3  4   5  6
-
-
 Where:
 
-1 - PDB ID of the protein
+3nos - PDB ID of the protein
 
-2 - EC Number
+1.14.13.39 - EC Number
 
-3 - Metal ion
+Zn - Metal ion
 
-4 - Residue
+CYS - Residue
 
-5 - Position in the sequence
+99 - Position in the sequence
 
-6 - Chain
+B - Chain
 
 
 
