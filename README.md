@@ -1,6 +1,6 @@
 # GASS-METAL
 
-GASS-Metal is a method of searching for similar metallic sites, which uses a parallel genetic algorithm.
+GASS-Metal is a new method based on a parallel genetic algorithm to search for similar metal-binding sites in proteins. In addition to finding similar metal-binding sites, the method can find inter-domain sites and perform not exact matches using a substitution matrix (conservative mutations).
 
 Here are available the templates used by the method, as well as the list of substitutions (conservative mutations).
 
